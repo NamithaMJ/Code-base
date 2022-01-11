@@ -24,3 +24,4 @@ func main() {
 	fmt.Scanln(&number)
 	fmt.Printf("Addition digits of %d = %d\n", number, sumDigits(number))
 }
+//testing
